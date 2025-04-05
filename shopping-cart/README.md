@@ -86,6 +86,8 @@ A basic shopping cart built with React.
 -CSS 
 
 ## How to run the project
+1.clone the repository: 
+git clone https://github.com/jhansilakshmiragala/shopping-cart-app.git
 
 cd shopping-cart-app 
 npm install 
